@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{
+    background-color:#24353f ;
+   
+}
+
+.layer{
+    background-color:   #24353f ;
+   
+    border-radius: 5%;
+    width: 50%;
+    box-shadow:4px 7px 18px #000000;
+}
+
+.layer  h1 {
+font-family:  'Pacifico', cursive;
+     color: #17a2b8;
+} 
+.wel{
+    font-family:'Pacifico', cursive; 
+    font-size: 50px;
+    /* position: relative;
+    top: 50%; */
+}
+/* .form-control{
+    background-color: #fcfcfc63;
+} */
+.navbar{
+    background-color:#24353f ;
+    box-shadow:4px 7px 18px #000000;
+}
